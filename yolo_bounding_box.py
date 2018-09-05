@@ -1,16 +1,19 @@
 import tkinter as tk
+from tkinter import filedialog
+
 import os
 import glob
 import cv2
 import math
 from PIL import Image, ImageTk
+from matplotlib import pyplot as plt
 
 
 class Application(tk.Frame):
 
     def __init__(self, master=None):
 
-        #self.imageDir = ''
+        self.label_dir = ''
         self.image_list = []
         #self.egDir = ''
         #self.egList = []
@@ -25,8 +28,8 @@ class Application(tk.Frame):
         super().__init__(master)
 
         self.parent = master
-        self.parent.title('William Tools')
-        self.parent.geometry('1200x930')
+        self.parent.title('Annotation validator for YOLO')
+        self.parent.geometry('842x680')
         self.parent.resizable(width=tk.FALSE, height=tk.FALSE)
         self.frame = tk.Frame(self.parent)
         self.frame.pack(fill=tk.BOTH, expand=tk.YES)
@@ -48,7 +51,7 @@ class Application(tk.Frame):
 
 
         self.cnv_image = tk.Canvas(self.pnl_image, relief=tk.SUNKEN, cursor='tcross', bg='black')
-        self.cnv_image.config(width=1175, height=680)
+        self.cnv_image.config(width=820, height=480)
         #self.cnv_image.configure(scrollregion=self.cnv_image.bbox('all'))
         self.cnv_image.config(highlightthickness=0)
     
@@ -77,10 +80,10 @@ class Application(tk.Frame):
 
         self.ety_path = tk.Entry(self.pnl_dir, width=60)
         
-        self.ety_path.insert(tk.END, '/home/william/Descargas/perusat/images/')
+        #self.ety_path.insert(tk.END, '/home/william/Descargas/perusat/images/')
         self.ety_path.pack(side=tk.LEFT, padx=5, pady=5)
         
-        self.btn_load = tk.Button(self.pnl_dir, text="Cargar", command=self.load_dir)
+        self.btn_load = tk.Button(self.pnl_dir, text="Cargar", command=self.browse_button)
         self.btn_load.pack(side=tk.LEFT, padx=5, pady=5)
 
         self.pnl_log = tk.Frame(self.frame, bg="#f5f5f5")
@@ -95,14 +98,14 @@ class Application(tk.Frame):
         self.s_start.config(command=self.txt_log.yview)
         self.txt_log.config(yscrollcommand=self.s_start.set)
 
-        self.txt_log.insert('end', 'WILLIAM TOOLS VERSIÓN 0.0.1\n')
-        self.txt_log.insert('end', '===========================\n')
+        self.txt_log.insert('end', 'Annotation validator for YOLO 0.0.1\n')
+        self.txt_log.insert('end', '===================================\n')
         self.txt_log.configure(state=tk.DISABLED)
         self.txt_log.see(tk.END)
 
     def load_dir(self):
-        self.image_dir = self.ety_path.get()
-        self.image_list = sorted(glob.glob(os.path.join(self.image_dir, '*.jpg')))
+        self.label_dir = self.ety_path.get()
+        self.image_list = sorted(glob.glob(os.path.join(self.label_dir, '*.jpg')))
         
         if len(self.image_list) == 0:
             self.print_log('No se encontraron imágenes en el directorio')
@@ -124,6 +127,13 @@ class Application(tk.Frame):
         if self.current < self.total:
             self.current += 1
             self.load_image()
+    
+    def browse_button(self):
+        # Allow user to select a directory and store it in global var
+        # called folder_path
+        self.label_dir = filedialog.askdirectory(initialdir='/home', title='Seleccione una carpeta')
+        self.ety_path.insert('end', self.label_dir)
+        self.load_dir()
 
     def convert_yolo_voc(self, img_size, x, y, w, h):
         x_min = (x * img_size[0]) - ((w*img_size[0])/2)
@@ -137,11 +147,8 @@ class Application(tk.Frame):
         image_path = self.image_list[current]
 
         img_opencv = cv2.imread(image_path)
-        
-
-
-
         height, width, channels = img_opencv.shape
+
 
         annotation_path = image_path.rstrip('jpg') + 'txt'
         file_txt = open(annotation_path, 'r')
