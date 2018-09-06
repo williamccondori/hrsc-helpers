@@ -1,0 +1,460 @@
+Total BFLOPS 34.025 
+
+ seen 32 
+Enter Image Path: /home/william/data/hrsc/dataset/100000010.jpg: Predicted in 0.051379 seconds.
+ship 0.725024  208 213 735 323
+ship 0.593077  378 441 552 136
+ship 0.467624  443 496 531 114
+Enter Image Path: /home/william/data/hrsc/dataset/100000636.jpg: Predicted in 0.052303 seconds.
+ship 0.772572  254 510 196 172
+Enter Image Path: /home/william/data/hrsc/dataset/100000648.jpg: Predicted in 0.051958 seconds.
+ship 0.775869  203 511 44 288
+ship 0.890172  579 489 52 368
+ship 0.878349  586 30 72 353
+ship 0.833103  717 35 202 743
+Enter Image Path: /home/william/data/hrsc/dataset/100000658.jpg: Predicted in 0.051576 seconds.
+ship 0.256241  364 570 216 186
+ship 0.279873  417 584 133 134
+ship 0.681736  551 249 322 132
+ship 0.854716  625 113 219 113
+ship 0.875229  853 220 186 82
+Enter Image Path: /home/william/data/hrsc/dataset/100000669.jpg: Predicted in 0.051548 seconds.
+Enter Image Path: /home/william/data/hrsc/dataset/100000680.jpg: Predicted in 0.051757 seconds.
+Enter Image Path: /home/william/data/hrsc/dataset/100000691.jpg: Predicted in 0.051669 seconds.
+ship 0.889935  160 54 342 156
+ship 0.820160  516 663 344 142
+Enter Image Path: /home/william/data/hrsc/dataset/100000703.jpg: Predicted in 0.051546 seconds.
+ship 0.264807  195 53 67 117
+ship 0.783921  579 92 433 679
+Enter Image Path: /home/william/data/hrsc/dataset/100000713.jpg: Predicted in 0.053206 seconds.
+ship 0.758447  568 325 175 160
+Enter Image Path: /home/william/data/hrsc/dataset/100000723.jpg: Predicted in 0.052024 seconds.
+ship 0.273439  -10 602 52 123
+ship 0.887148  215 276 540 444
+ship 0.934026  343 117 520 486
+Enter Image Path: /home/william/data/hrsc/dataset/100000733.jpg: Predicted in 0.051214 seconds.
+ship 0.580452  461 669 148 105
+ship 0.915358  641 107 358 426
+Enter Image Path: /home/william/data/hrsc/dataset/100000743.jpg: Predicted in 0.051307 seconds.
+ship 0.863744  258 140 428 311
+Enter Image Path: /home/william/data/hrsc/dataset/100000754.jpg: Predicted in 0.052698 seconds.
+ship 0.930139  376 259 406 400
+Enter Image Path: /home/william/data/hrsc/dataset/100000764.jpg: Predicted in 0.050687 seconds.
+ship 0.311806  112 86 32 92
+ship 0.887823  121 306 43 339
+ship 0.870367  184 32 407 51
+Enter Image Path: /home/william/data/hrsc/dataset/100000774.jpg: Predicted in 0.050215 seconds.
+ship 0.859336  60 47 250 232
+ship 0.648221  364 357 44 319
+ship 0.408018  365 729 56 100
+ship 0.592846  841 435 83 373
+ship 0.701566  961 401 239 50
+ship 0.333959  973 369 194 74
+Enter Image Path: /home/william/data/hrsc/dataset/100000784.jpg: Predicted in 0.053521 seconds.
+ship 0.855744  399 322 419 100
+Enter Image Path: /home/william/data/hrsc/dataset/100000794.jpg: Predicted in 0.051377 seconds.
+ship 0.336421  31 574 649 87
+ship 0.628462  93 192 576 120
+ship 0.645464  312 296 392 69
+Enter Image Path: /home/william/data/hrsc/dataset/100000804.jpg: Predicted in 0.049722 seconds.
+ship 0.940782  135 411 298 382
+ship 0.548491  544 11 348 249
+Enter Image Path: /home/william/data/hrsc/dataset/100000814.jpg: Predicted in 0.052243 seconds.
+ship 0.446898  12 620 148 205
+ship 0.850264  160 319 199 278
+ship 0.854823  412 72 220 259
+ship 0.594969  466 647 184 174
+ship 0.908172  643 353 182 276
+ship 0.292962  887 5 115 286
+Enter Image Path: /home/william/data/hrsc/dataset/100000824.jpg: Predicted in 0.050870 seconds.
+ship 0.793788  196 374 67 332
+ship 0.674656  231 25 68 303
+Enter Image Path: /home/william/data/hrsc/dataset/100000834.jpg: Predicted in 0.049747 seconds.
+ship 0.897406  76 465 306 86
+ship 0.744687  229 151 252 56
+ship 0.907234  397 553 307 100
+ship 0.831226  523 214 315 53
+ship 0.725969  563 183 268 56
+ship 0.807090  717 630 249 75
+ship 0.779755  831 203 364 48
+Enter Image Path: /home/william/data/hrsc/dataset/100000844.jpg: Predicted in 0.052033 seconds.
+ship 0.955772  281 152 339 290
+ship 0.591206  762 638 62 66
+Enter Image Path: /home/william/data/hrsc/dataset/100000854.jpg: Predicted in 0.050241 seconds.
+ship 0.925488  338 66 569 357
+ship 0.345000  392 459 301 200
+ship 0.781890  403 365 614 363
+Enter Image Path: /home/william/data/hrsc/dataset/100000864.jpg: Predicted in 0.051362 seconds.
+ship 0.705485  225 120 393 379
+Enter Image Path: /home/william/data/hrsc/dataset/100000874.jpg: Predicted in 0.049541 seconds.
+ship 0.944342  534 142 344 471
+Enter Image Path: /home/william/data/hrsc/dataset/100000884.jpg: Predicted in 0.049992 seconds.
+ship 0.906359  124 487 484 151
+ship 0.889032  584 242 443 110
+Enter Image Path: /home/william/data/hrsc/dataset/100000894.jpg: Predicted in 0.051665 seconds.
+ship 0.490903  442 194 547 231
+Enter Image Path: /home/william/data/hrsc/dataset/100000904.jpg: Predicted in 0.050109 seconds.
+ship 0.736570  484 233 186 368
+Enter Image Path: /home/william/data/hrsc/dataset/100000915.jpg: Predicted in 0.050705 seconds.
+ship 0.809863  280 57 53 310
+ship 0.752914  282 445 46 338
+ship 0.748087  385 459 37 290
+ship 0.694640  803 27 42 287
+ship 0.818086  1037 192 84 535
+Enter Image Path: /home/william/data/hrsc/dataset/100000925.jpg: Predicted in 0.049551 seconds.
+ship 0.502313  560 120 120 373
+ship 0.346857  582 775 341 23
+ship 0.254407  750 770 302 33
+Enter Image Path: /home/william/data/hrsc/dataset/100000935.jpg: Predicted in 0.049388 seconds.
+ship 0.806233  168 567 352 207
+ship 0.376757  473 330 191 100
+Enter Image Path: /home/william/data/hrsc/dataset/100000945.jpg: Predicted in 0.049383 seconds.
+ship 0.934653  111 198 437 145
+Enter Image Path: /home/william/data/hrsc/dataset/100000955.jpg: Predicted in 0.049455 seconds.
+ship 0.680635  198 472 166 113
+ship 0.370150  289 480 133 85
+ship 0.771079  461 577 169 122
+Enter Image Path: /home/william/data/hrsc/dataset/100000965.jpg: Predicted in 0.049458 seconds.
+ship 0.337969  7 392 70 317
+ship 0.752735  272 375 71 105
+ship 0.658072  326 505 43 134
+Enter Image Path: /home/william/data/hrsc/dataset/100000975.jpg: Predicted in 0.050245 seconds.
+ship 0.838640  221 366 329 115
+Enter Image Path: /home/william/data/hrsc/dataset/100000985.jpg: Predicted in 0.049519 seconds.
+ship 0.852436  158 243 169 350
+ship 0.635928  609 612 87 176
+ship 0.833155  831 100 91 202
+Enter Image Path: /home/william/data/hrsc/dataset/100000995.jpg: Predicted in 0.049027 seconds.
+ship 0.966259  253 189 192 503
+ship 0.900397  457 426 109 333
+ship 0.445138  693 150 212 457
+Enter Image Path: /home/william/data/hrsc/dataset/100001005.jpg: Predicted in 0.049446 seconds.
+ship 0.848064  289 47 192 394
+ship 0.605940  391 378 106 157
+ship 0.592733  479 309 158 252
+ship 0.747308  543 173 97 168
+ship 0.729466  545 306 99 181
+Enter Image Path: /home/william/data/hrsc/dataset/100001015.jpg: Predicted in 0.049331 seconds.
+ship 0.785325  131 467 511 299
+ship 0.855906  279 328 380 240
+ship 0.856583  312 95 350 190
+Enter Image Path: /home/william/data/hrsc/dataset/100001025.jpg: Predicted in 0.049340 seconds.
+ship 0.731869  488 380 154 47
+ship 0.695620  499 330 170 46
+ship 0.789593  700 439 151 46
+Enter Image Path: /home/william/data/hrsc/dataset/100001035.jpg: Predicted in 0.050382 seconds.
+ship 0.836448  82 45 716 418
+Enter Image Path: /home/william/data/hrsc/dataset/100001045.jpg: Predicted in 0.049195 seconds.
+ship 0.972051  54 178 363 385
+ship 0.894724  218 311 255 267
+ship 0.484722  507 778 246 45
+ship 0.827300  541 3 240 231
+ship 0.860213  818 418 278 277
+ship 0.501875  869 -2 180 78
+ship 0.875897  924 507 223 275
+Enter Image Path: /home/william/data/hrsc/dataset/100001055.jpg: Predicted in 0.049410 seconds.
+ship 0.789322  381 218 330 115
+Enter Image Path: /home/william/data/hrsc/dataset/100001065.jpg: Predicted in 0.049359 seconds.
+ship 0.656016  145 67 356 499
+ship 0.837238  288 111 326 523
+ship 0.795692  488 192 358 592
+Enter Image Path: /home/william/data/hrsc/dataset/100001075.jpg: Predicted in 0.049212 seconds.
+ship 0.835358  72 521 374 117
+ship 0.916498  282 164 689 159
+ship 0.512228  302 59 687 199
+ship 0.851587  534 613 391 102
+ship 0.824122  567 522 292 79
+Enter Image Path: /home/william/data/hrsc/dataset/100001085.jpg: Predicted in 0.049388 seconds.
+ship 0.928491  345 103 395 261
+Enter Image Path: /home/william/data/hrsc/dataset/100001095.jpg: Predicted in 0.050623 seconds.
+ship 0.831848  29 394 711 158
+Enter Image Path: /home/william/data/hrsc/dataset/100001105.jpg: Predicted in 0.049450 seconds.
+ship 0.634643  357 136 323 563
+Enter Image Path: /home/william/data/hrsc/dataset/100001115.jpg: Predicted in 0.049383 seconds.
+ship 0.920361  197 15 450 399
+ship 0.845512  254 489 263 244
+ship 0.793670  541 211 282 232
+ship 0.819732  647 261 244 235
+Enter Image Path: /home/william/data/hrsc/dataset/100001125.jpg: Predicted in 0.049423 seconds.
+ship 0.987622  99 86 489 523
+ship 0.880565  697 235 220 234
+ship 0.954699  709 299 234 348
+Enter Image Path: /home/william/data/hrsc/dataset/100001135.jpg: Predicted in 0.049958 seconds.
+ship 0.682859  76 20 121 115
+ship 0.851735  86 177 260 309
+Enter Image Path: /home/william/data/hrsc/dataset/100001145.jpg: Predicted in 0.049632 seconds.
+ship 0.688357  217 35 190 447
+ship 0.410953  302 61 221 415
+ship 0.321137  392 191 82 156
+Enter Image Path: /home/william/data/hrsc/dataset/100001155.jpg: Predicted in 0.050423 seconds.
+ship 0.334027  256 583 82 151
+ship 0.853786  308 578 145 224
+ship 0.931303  308 27 255 442
+ship 0.840332  424 59 259 491
+ship 0.540041  738 177 305 634
+Enter Image Path: /home/william/data/hrsc/dataset/100001165.jpg: Predicted in 0.049345 seconds.
+ship 0.444302  160 461 156 94
+ship 0.477665  391 288 154 305
+ship 0.254833  402 478 108 141
+ship 0.266293  617 220 56 108
+Enter Image Path: /home/william/data/hrsc/dataset/100001175.jpg: Predicted in 0.049366 seconds.
+ship 0.792169  292 55 98 553
+ship 0.816181  632 139 132 570
+ship 0.778666  817 297 62 360
+ship 0.338595  863 1 54 98
+Enter Image Path: /home/william/data/hrsc/dataset/100001185.jpg: Predicted in 0.049398 seconds.
+ship 0.914354  462 48 465 529
+Enter Image Path: /home/william/data/hrsc/dataset/100001195.jpg: Predicted in 0.049422 seconds.
+ship 0.770865  147 407 244 117
+ship 0.265355  213 107 89 166
+ship 0.872052  638 234 238 106
+Enter Image Path: /home/william/data/hrsc/dataset/100001205.jpg: Predicted in 0.049240 seconds.
+ship 0.896359  245 265 344 184
+Enter Image Path: /home/william/data/hrsc/dataset/100001215.jpg: Predicted in 0.050522 seconds.
+ship 0.345578  32 545 488 188
+ship 0.679915  469 262 177 346
+ship 0.775466  747 422 72 171
+Enter Image Path: /home/william/data/hrsc/dataset/100001225.jpg: Predicted in 0.049421 seconds.
+ship 0.727358  88 156 81 267
+ship 0.311382  165 110 163 570
+ship 0.591353  365 768 215 56
+ship 0.891490  600 33 141 393
+ship 0.271400  683 442 52 265
+ship 0.833123  1025 359 83 293
+Enter Image Path: /home/william/data/hrsc/dataset/100001235.jpg: Predicted in 0.049315 seconds.
+ship 0.822873  171 476 257 72
+ship 0.808762  238 164 452 106
+ship 0.497285  266 87 510 91
+ship 0.309794  284 77 218 58
+ship 0.378464  321 60 328 90
+ship 0.857114  649 653 276 65
+ship 0.593910  657 570 291 66
+ship 0.861833  756 238 279 72
+Enter Image Path: /home/william/data/hrsc/dataset/100001245.jpg: Predicted in 0.049264 seconds.
+ship 0.950795  100 224 517 450
+ship 0.935384  219 365 483 408
+ship 0.482756  664 60 145 139
+ship 0.942799  707 125 281 239
+Enter Image Path: /home/william/data/hrsc/dataset/100001255.jpg: Predicted in 0.049252 seconds.
+ship 0.369245  599 29 263 612
+Enter Image Path: /home/william/data/hrsc/dataset/100001265.jpg: Predicted in 0.049503 seconds.
+ship 0.538498  193 428 226 81
+ship 0.927520  253 121 282 102
+ship 0.849159  383 530 404 159
+ship 0.633766  883 238 198 46
+ship 0.312323  968 218 110 61
+ship 0.279356  971 278 118 61
+Enter Image Path: /home/william/data/hrsc/dataset/100001275.jpg: Predicted in 0.049406 seconds.
+ship 0.711001  131 529 156 86
+ship 0.826779  336 630 232 113
+ship 0.460976  890 134 212 546
+ship 0.465165  946 -7 61 70
+Enter Image Path: /home/william/data/hrsc/dataset/100001285.jpg: Predicted in 0.049435 seconds.
+ship 0.763841  170 155 64 306
+ship 0.865600  269 110 59 341
+ship 0.804123  646 455 54 358
+ship 0.925546  716 52 118 534
+Enter Image Path: /home/william/data/hrsc/dataset/100001295.jpg: Predicted in 0.049405 seconds.
+ship 0.910529  127 130 343 512
+ship 0.914223  288 62 306 496
+ship 0.617329  567 585 108 155
+Enter Image Path: /home/william/data/hrsc/dataset/100001305.jpg: Predicted in 0.049317 seconds.
+ship 0.929709  348 339 304 291
+ship 0.302197  868 421 160 70
+Enter Image Path: /home/william/data/hrsc/dataset/100001315.jpg: Predicted in 0.049421 seconds.
+ship 0.501993  104 140 186 44
+ship 0.496493  125 480 556 134
+ship 0.753580  658 523 349 54
+ship 0.640596  806 132 217 42
+ship 0.466544  846 686 192 68
+Enter Image Path: /home/william/data/hrsc/dataset/100001325.jpg: Predicted in 0.050529 seconds.
+ship 0.592308  220 20 136 139
+ship 0.946189  435 232 195 227
+Enter Image Path: /home/william/data/hrsc/dataset/100001335.jpg: Predicted in 0.049462 seconds.
+ship 0.908649  218 143 171 277
+ship 0.875548  327 77 171 287
+ship 0.858877  432 541 181 274
+ship 0.912123  554 475 174 287
+ship 0.721356  772 66 89 139
+ship 0.927427  808 263 213 313
+Enter Image Path: /home/william/data/hrsc/dataset/100001345.jpg: Predicted in 0.049367 seconds.
+ship 0.331837  205 360 56 147
+ship 0.944274  477 337 277 303
+Enter Image Path: /home/william/data/hrsc/dataset/100001355.jpg: Predicted in 0.049242 seconds.
+ship 0.387932  33 0 169 28
+ship 0.254351  110 -1 103 21
+ship 0.900667  112 130 205 282
+ship 0.868543  407 375 199 279
+ship 0.865511  476 464 204 244
+ship 0.641143  716 374 131 116
+Enter Image Path: /home/william/data/hrsc/dataset/100001365.jpg: Predicted in 0.049436 seconds.
+ship 0.509695  354 506 245 184
+ship 0.844912  395 666 247 135
+ship 0.765613  622 313 217 154
+ship 0.867856  622 209 211 153
+ship 0.621817  698 541 115 160
+ship 0.789749  815 5 252 84
+ship 0.451378  925 159 149 190
+Enter Image Path: /home/william/data/hrsc/dataset/100001375.jpg: Predicted in 0.049284 seconds.
+ship 0.423795  137 -4 176 34
+ship 0.890452  175 166 331 292
+ship 0.869505  305 300 211 188
+ship 0.932133  520 41 341 281
+Enter Image Path: /home/william/data/hrsc/dataset/100001385.jpg: Predicted in 0.050301 seconds.
+ship 0.914552  505 260 217 325
+ship 0.262365  662 126 81 148
+Enter Image Path: /home/william/data/hrsc/dataset/100001395.jpg: Predicted in 0.049254 seconds.
+ship 0.584660  147 783 279 42
+ship 0.919426  316 430 321 178
+ship 0.923020  375 349 296 183
+ship 0.907581  702 632 276 170
+ship 0.906575  871 229 280 161
+Enter Image Path: /home/william/data/hrsc/dataset/100001405.jpg: Predicted in 0.049374 seconds.
+ship 0.883193  414 32 238 245
+ship 0.376231  599 635 117 96
+ship 0.908502  755 433 266 263
+ship 0.540599  850 226 96 107
+Enter Image Path: /home/william/data/hrsc/dataset/100001415.jpg: Predicted in 0.049412 seconds.
+ship 0.807928  306 92 194 198
+ship 0.928228  373 257 224 223
+ship 0.947462  597 425 318 328
+Enter Image Path: /home/william/data/hrsc/dataset/100001425.jpg: Predicted in 0.049382 seconds.
+ship 0.902362  169 287 228 420
+ship 0.790690  341 240 164 297
+ship 0.865559  535 127 173 304
+Enter Image Path: /home/william/data/hrsc/dataset/100001435.jpg: Predicted in 0.049434 seconds.
+ship 0.305293  -1 473 366 333
+Enter Image Path: /home/william/data/hrsc/dataset/100001445.jpg: Predicted in 0.049813 seconds.
+ship 0.867169  149 235 181 300
+ship 0.897496  464 1 204 315
+ship 0.895433  620 410 153 271
+ship 0.807092  722 372 141 276
+Enter Image Path: /home/william/data/hrsc/dataset/100001455.jpg: Predicted in 0.049377 seconds.
+ship 0.772989  137 470 178 101
+ship 0.859883  265 72 319 187
+ship 0.755778  360 570 152 88
+ship 0.801304  588 680 240 127
+ship 0.405830  857 287 150 83
+ship 0.630238  881 305 251 522
+Enter Image Path: /home/william/data/hrsc/dataset/100001465.jpg: Predicted in 0.049318 seconds.
+ship 0.966956  192 39 182 256
+ship 0.782583  232 282 269 383
+ship 0.871723  435 367 173 218
+ship 0.498129  451 6 147 69
+Enter Image Path: /home/william/data/hrsc/dataset/100001475.jpg: Predicted in 0.049107 seconds.
+ship 0.684945  81 461 67 297
+ship 0.705707  124 29 73 331
+ship 0.347553  179 37 80 316
+ship 0.862566  189 446 83 341
+ship 0.823068  230 39 78 330
+ship 0.768624  540 552 56 293
+ship 0.781388  574 104 59 290
+ship 0.587194  834 93 115 37
+ship 0.827353  1011 179 61 295
+ship 0.665114  1041 677 72 159
+ship 0.841183  1097 200 70 273
+Enter Image Path: /home/william/data/hrsc/dataset/100001485.jpg: Predicted in 0.049773 seconds.
+ship 0.923004  105 378 258 235
+ship 0.402695  181 92 123 137
+ship 0.908103  241 374 163 121
+ship 0.895204  321 73 268 192
+ship 0.927919  621 256 401 357
+ship 0.889919  711 126 375 384
+ship 0.894464  878 196 136 102
+ship 0.281631  1122 87 67 128
+Enter Image Path: /home/william/data/hrsc/dataset/100001495.jpg: Predicted in 0.049029 seconds.
+ship 0.266947  47 337 86 65
+ship 0.954201  248 29 534 475
+ship 0.404459  514 4 365 134
+Enter Image Path: /home/william/data/hrsc/dataset/100001505.jpg: Predicted in 0.049278 seconds.
+ship 0.775993  265 202 416 89
+ship 0.884710  311 638 490 82
+ship 0.252174  395 193 242 59
+ship 0.497375  436 561 245 63
+ship 0.468297  439 281 144 53
+Enter Image Path: /home/william/data/hrsc/dataset/100001515.jpg: Predicted in 0.049430 seconds.
+ship 0.907025  62 201 359 149
+ship 0.868276  209 557 354 172
+ship 0.893552  226 659 367 159
+ship 0.866342  531 9 359 150
+ship 0.897532  619 368 380 185
+ship 0.895624  680 480 358 156
+Enter Image Path: /home/william/data/hrsc/dataset/100001525.jpg: Predicted in 0.049423 seconds.
+ship 0.882917  363 258 467 124
+ship 0.724941  757 489 198 73
+Enter Image Path: /home/william/data/hrsc/dataset/100001535.jpg: Predicted in 0.049426 seconds.
+ship 0.601287  354 152 72 361
+ship 0.264126  703 308 34 257
+Enter Image Path: /home/william/data/hrsc/dataset/100001545.jpg: Predicted in 0.049293 seconds.
+ship 0.941851  34 47 127 308
+ship 0.855719  151 35 154 429
+ship 0.252809  284 603 161 67
+ship 0.809662  566 159 186 491
+ship 0.843342  739 173 112 411
+ship 0.780119  1048 246 103 502
+Enter Image Path: /home/william/data/hrsc/dataset/100001555.jpg: Predicted in 0.049266 seconds.
+ship 0.800503  47 104 46 327
+ship 0.725067  77 526 52 281
+ship 0.469842  125 101 52 319
+ship 0.401400  146 106 51 312
+ship 0.624308  598 20 211 44
+ship 0.260965  984 104 32 214
+ship 0.893288  1023 126 114 488
+Enter Image Path: /home/william/data/hrsc/dataset/100001565.jpg: Predicted in 0.049452 seconds.
+ship 0.848554  235 346 451 144
+ship 0.669478  684 335 384 168
+Enter Image Path: /home/william/data/hrsc/dataset/100001575.jpg: Predicted in 0.049313 seconds.
+ship 0.426812  -1 681 74 97
+ship 0.885906  254 204 222 225
+ship 0.913422  576 346 170 378
+Enter Image Path: /home/william/data/hrsc/dataset/100001585.jpg: Predicted in 0.049369 seconds.
+ship 0.955887  446 416 302 315
+Enter Image Path: /home/william/data/hrsc/dataset/100001595.jpg: Predicted in 0.049920 seconds.
+ship 0.317490  -6 627 70 115
+ship 0.769103  487 369 132 194
+ship 0.505303  545 331 155 172
+Enter Image Path: /home/william/data/hrsc/dataset/100001605.jpg: Predicted in 0.049380 seconds.
+ship 0.838258  120 504 55 308
+ship 0.504391  455 533 116 73
+ship 0.368423  662 59 79 492
+ship 0.835349  762 -8 78 408
+ship 0.390566  788 433 37 113
+Enter Image Path: /home/william/data/hrsc/dataset/100001615.jpg: Predicted in 0.050292 seconds.
+ship 0.935897  109 89 316 346
+ship 0.829817  587 441 228 212
+ship 0.780684  653 492 212 206
+Enter Image Path: /home/william/data/hrsc/dataset/100001625.jpg: Predicted in 0.049391 seconds.
+ship 0.547595  42 418 290 374
+ship 0.326432  257 199 65 96
+ship 0.807178  419 440 81 148
+ship 0.679749  507 614 97 140
+ship 0.262513  520 770 102 45
+ship 0.416904  587 783 106 33
+ship 0.927235  611 24 166 332
+ship 0.885995  792 386 188 341
+Enter Image Path: /home/william/data/hrsc/dataset/100001635.jpg: Predicted in 0.049355 seconds.
+ship 0.885363  107 402 66 351
+ship 0.398007  314 1 152 23
+ship 0.819506  471 438 67 329
+ship 0.851622  569 15 71 349
+ship 0.848131  789 361 98 444
+ship 0.781133  894 366 122 444
+Enter Image Path: /home/william/data/hrsc/dataset/100001645.jpg: Predicted in 0.049199 seconds.
+ship 0.953702  182 190 343 287
+ship 0.252171  932 400 106 89
+Enter Image Path: /home/william/data/hrsc/dataset/100001655.jpg: Predicted in 0.049433 seconds.
+ship 0.540281  155 428 100 134
+ship 0.858284  181 363 220 278
+ship 0.653762  342 226 184 281
+ship 0.766322  449 146 224 328
+Enter Image Path: /home/william/data/hrsc/dataset/100001665.jpg: Predicted in 0.049332 seconds.
+ship 0.900266  98 534 246 207
+ship 0.918583  207 442 363 332
+ship 0.947827  695 147 205 158
+ship 0.850369  702 507 81 139
+ship 0.326485  806 11 241 56
+Enter Image Path: /home/william/data/hrsc/dataset/100001675.jpg: Predicted in 0.049292 seconds.
+ship 0.785318  179 256 173 378
+ship 0.684927  799 191 182 514
+ship 0.658571  858 161 215 546
+Enter Image Path: 
