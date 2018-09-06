@@ -33,7 +33,7 @@ def main():
             # for pathAndFilename in glob.iglob(os.path.join(path_data, "*.jpg")):
             #title, ext = os.path.splitext(os.path.basename(pathAndFilename))
             title = line.rstrip('.xml\n')
-            print 'Linea: {0}'.format(title)
+            print ('Linea: {0}'.format(title))
             
             # print(title)
             if counter == index_test:

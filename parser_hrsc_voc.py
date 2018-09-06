@@ -6,20 +6,21 @@ import xml.etree.ElementTree as ET
 from PIL import Image
 
 DATABASE_NAME = 'hrsc'  # Nombre de la base de datos.
-BASE_DIR = '/home/william/Images/hrsc' # Modificar.
+BASE_DIR = '/home/william/Images/hrsc'  # Modificar.
 
 INPUT_DIR = BASE_DIR + '/hrsc/'
 OUTPUT_DIR = BASE_DIR + '/voc/'
 IMAGE_DIR = BASE_DIR + '/images/'
+
 
 def main():
     for file_xml in sorted(os.listdir(INPUT_DIR)):
         annotation_xml = ET.parse(INPUT_DIR + file_xml)
         output_filename = OUTPUT_DIR + file_xml
 
-	# Image
-	img = Image.open(IMAGE_DIR + '{0}.jpg'.format(file_xml.rstrip('.xml')))
-	width, height = img.size
+        # Image
+    img = Image.open(IMAGE_DIR + '{0}.jpg'.format(file_xml.rstrip('.xml')))
+    width, height = img.size
 
         file_output = open(output_filename, "w")
         file_output.write('<annotation>\n')
@@ -50,7 +51,8 @@ def main():
 
                         # if len(list(attribute)) == 0:
                         file_output.write('	<object>\n')
-                        file_output.write('		<name>{0}</name>\n'.format('ship'))
+                        file_output.write(
+                            '		<name>{0}</name>\n'.format('ship'))
                         file_output.write(
                             '		<pose>{0}</pose>\n'.format('Frontal'))
 
